@@ -8,7 +8,7 @@
 import UIKit
 import VisionKit
 import Vision
-import TinyConstraints
+
 
 class MyCardsViewController: UIViewController {
 
